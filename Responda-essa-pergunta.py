@@ -1,4 +1,7 @@
-#testando algumas possibilidades
+'''
+testando algumas possibilidades...
+aka "Chute um número"
+'''
 
 num = float(input("quanto é 0 x 998? "))
 if num <= 0:
